@@ -1,0 +1,2 @@
+# FUNtions
+Funny mathematics functions
